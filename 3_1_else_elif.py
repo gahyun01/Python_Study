@@ -9,7 +9,8 @@ else:
 
 
 """ if, elif, else """
-winner = 10
+winner = 10 # Winner is 10
+winner = 20 # Winner is greater than 10
 
 if winner > 10:
   print("Winner is greater than 10")
